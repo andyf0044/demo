@@ -7,3 +7,5 @@ This is a simple README file for the demo project.
 
 An update to the file, on a new branch is it a problem?
 
+Adding some text.
+
